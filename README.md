@@ -8,7 +8,7 @@
 
 ### 🔧 Compétences et Technologies
 
-- Langages : Java(basique), python (basique), C 
+- Langages : Java (basique), Python (basique), C 
 - Outils : Git
 - Environnements de développement : Visual studio code, IntelliJ
 
