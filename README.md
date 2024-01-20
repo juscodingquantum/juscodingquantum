@@ -1,6 +1,6 @@
 ## 👋 Salut, je suis Jules.
 
-### 🚀 Développeur Java Autodidacte 
+### 🚀 Développeur junior Java Autodidacte 
 
 🌱 Actuellement en apprentissage constant pour affiner mes compétences en développement Java
 
