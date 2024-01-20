@@ -14,11 +14,6 @@
 
 ### 📈 Projets récents
 
-
-### 🤝 Contribuer et Collaborer
-
-- J'aime contribuer à des projets open source, et je suis ouvert aux collaborations. N'hésitez pas à me contacter pour discuter de projets intéressants.
-
 ### 📫 Comment me joindre
 
 - Email : jules.duboisproo@gmail.com
