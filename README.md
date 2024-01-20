@@ -20,7 +20,7 @@
 
 Faites un tour sur mes projets et n'hésitez pas à me contacter pour discuter de collaborations, de projets intéressants ou simplement pour échanger des idées passionnantes !
 
-Happy coding! 🚀
+Happy coding! 😊
 
 
 
