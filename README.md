@@ -1,6 +1,6 @@
 ## 👋 Salut, je suis Jules.
 
-### 🚀 Développeur junior Java Autodidacte 
+### 🚀 Développeur junior Autodidacte 
 
 🌱 Actuellement en apprentissage constant pour affiner mes compétences en développement Java
 
@@ -9,7 +9,7 @@
 ### 🔧 Compétences et Technologies
 
 - Langages : Java (basique), Python (basique), C 
-- Outils : Git
+- Outils : Git, github, docker
 - Environnements de développement : Visual studio code, IntelliJ
 
 ### 📈 Projets récents
