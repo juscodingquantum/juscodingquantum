@@ -2,8 +2,6 @@
 
 ### 🚀 Développeur junior Autodidacte 
 
-🌱 Actuellement en apprentissage constant pour affiner mes compétences en développement Java
-
 💼 Je travaille sur des projets personnels pour mettre en pratique mes connaissances et contribuer à la communauté open source.
 
 ### 🔧 Compétences et Technologies
